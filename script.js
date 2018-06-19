@@ -3,7 +3,7 @@ var pandinha = 0;
 
 $().ready(function(){
 
-	//rola a tela até a parte selecionada na intro
+	
     $(this).css("color", "#0f7f87");
 	$('.menu').on('click', function(){
         if (state=0) {
